@@ -1,7 +1,17 @@
 	>create a new branch
 git checkout -b branchName
+
 	>checkout to another branch
 git checkout branchName
+
 	>List all the branches
 git branch -a
-	>
+
+	>Steps 
+1. Create a new branch
+2. Create a new file.
+3. Status / add/commit
+4. Switch back to main/master
+5. check if the new file exists
+6. merge
+7. Check if the new file exists
