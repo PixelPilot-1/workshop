@@ -15,3 +15,5 @@ git branch -a
 5. check if the new file exists
 6. merge
 7. Check if the new file exists
+
+	>Merge confict
