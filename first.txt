@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is first text file and with conflict !!
 This is in master branch
 
 this is today's stuff.
+=======
+
+>>>>>>> new
