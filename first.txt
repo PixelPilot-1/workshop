@@ -3,6 +3,4 @@ this is first text file and with conflict !!
 This is in master branch
 
 this is today's stuff.
-=======
-
->>>>>>> new
+Now we are with you and this is the update for today. Thnax!!!!
